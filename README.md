@@ -9,6 +9,7 @@ hwpc project
 - https://github.com/2cld/HWPCold
 - ct sites.google.com hawkeyewestpestcontrol
 - ct sites.google.com Routes HWPC
+- ct [noetbooklm - Routes](https://notebooklm.google.com/notebook/a8276b19-1b41-4887-850f-c7f4b2b9ae75?pli=1)
 
 # WIP
 - Convert HWPC Tickets to mobile
