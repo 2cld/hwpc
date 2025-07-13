@@ -14,6 +14,10 @@ hwpc project
 
 # WIP
 - Convert HWPC Tickets to mobile
+  - CustomerDB
+  - TicketDB
+  - TicketView
+  - RoutePrint
 - Fix main site FooBar (wix shit, dupe and put on ct sites.google.com hawkeyewestpestcontrol
 
 # Reference
