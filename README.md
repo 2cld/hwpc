@@ -38,4 +38,5 @@ hwpc project
 - [Create Routes With Google Maps Routes API On Your Wix Velo Site - Wix Velo Tutorial](https://www.youtube.com/watch?v=lnx1n1ZM6Bc&list=TLGG_KoWpKkFtt0xMzA3MjAyNQ&t=11s)
 - [Google Sheets invoice templates, step by step](https://www.youtube.com/watch?v=Jwy6mVAQiww&t=177s)
 - [How to Make an Invoice Tracker in Google Sheets](https://www.youtube.com/watch?v=o0OHdpRFYIc)
+- [Import bank statement to google sheets](https://www.google.com/search?q=import+my+bank+statement+to+google+sheets&rlz=1C1CHBF_enUS1075US1091&oq=import+my+bank+statement+to+gogl&gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKABMgkIBBAhGAoYoAEyBwgFECEYjwIyBwgGECEYjwLSAQkyMzM3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 - tbd
