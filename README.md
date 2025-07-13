@@ -13,12 +13,15 @@ hwpc project
 - ct [noetbooklm - Routes](https://notebooklm.google.com/notebook/a8276b19-1b41-4887-850f-c7f4b2b9ae75?pli=1)
 
 # WIP
+- Fix main site FooBar (wix shit, dupe and put on ct sites.google.com hawkeyewestpestcontrol
+  - cat@hwpc sent contacted google to claim ownership mainly for google maps
+  - Need to validate ownership with a call to website listed number
 - Convert HWPC Tickets to mobile
   - CustomerDB
   - TicketDB
   - TicketView
   - RoutePrint
-- Fix main site FooBar (wix shit, dupe and put on ct sites.google.com hawkeyewestpestcontrol
+- Bare min conversion from old db to google sheets
 
 # Test
 - Sheets [HWPC Routes](https://docs.google.com/spreadsheets/d/1XZotISYBmbW1XCl1l35aHwgtgXDwfI_IXkaPK4ER8kU/edit?gid=0#gid=0)
