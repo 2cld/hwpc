@@ -1,8 +1,13 @@
 [edit](https://github.com/2cld/hwpc/edit/master/README.md) 
 
+- Test [http://10.147.17.219:3000/](http://10.147.17.219:3000/)
+  - Tickets [http://10.147.17.219:3000/tickets](http://10.147.17.219:3000/tickets)
+  - Customers [http://10.147.17.219:3000/customers](http://10.147.17.219:3000/customers)
+  - Routes [http://10.147.17.219:3000/routes](http://10.147.17.219:3000/routes)
+  - Reports [http://10.147.17.219:3000/reports](http://10.147.17.219:3000/reports)
 - [docs](./docs)
   - [hwpc-gs](./docs/hwpc-gs)
-  - tbd
+  - [hwpc-test](./docs/hwpc-test)
 - [https://www.hawkeyewestpestcontrol.com/](https://www.hawkeyewestpestcontrol.com/) site holder [hawkeyewestpestcontrol.com repo](https://github.com/christrees/hawkeyewestpestcontrol.com)
 - [https://hwpest.com/](https://hwpest.com/) site holder [hwpest.com repo](https://github.com/christrees/hwpest.com)
 - [https://hwpc.net/](https://hwpc.net/) site holder [hwpc.net repo](https://github.com/christrees/hwpc.net)
