@@ -1,5 +1,22 @@
 [edit](https://github.com/2cld/hwpc/edit/master/README.md) 
 
+- Goals
+  - Mark can run from phone
+  - Automatic phone, chat and email response / attendent ( Candy-bot )
+  - Automatic response scheduling (aka will schedule and alert phone)
+  - Automatic invoice and payment creation
+  - Automatic reciept input via email, pdf or picture
+  - Continuious tax tracking
+  - Tax pre-planning
+  - Auto tax filing
+- Time: 20hr / week to 1/25
+- Evaluation metrics
+  - Mark uses it
+  - Mark can manage dailies from his phone
+  - Reduce taxes
+  - Increase google rating [google business](https://business.google.com/create?skipLandingPage&service=ome&original_intent=GMB&omesrcexp=97643701&omec=ELXZxy4YAiIBATIBAUABShMIzKPruOWukAMVTdZLAx3GtRi0)
+
+
 - Test [http://10.147.17.219:3000/](http://10.147.17.219:3000/)
   - Tickets [http://10.147.17.219:3000/tickets](http://10.147.17.219:3000/tickets)
   - Customers [http://10.147.17.219:3000/customers](http://10.147.17.219:3000/customers)
