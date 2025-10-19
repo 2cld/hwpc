@@ -49,6 +49,8 @@
 - [ai voice agent yt](https://www.youtube.com/watch?v=HGBMr1RQliY)
 - [ai voice agent yt](https://www.youtube.com/watch?v=JinTKY1TJZY)
 - [ai voice agent multi-lingual](https://www.youtube.com/watch?v=n64lzhgld8M)
+- [ai call center](https://www.youtube.com/watch?v=6MLu3fbNsdY)
+
 ## hwpc from wip.2cld.net
 - Review HWPC
   - Review email setup
