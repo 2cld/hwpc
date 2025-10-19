@@ -3,13 +3,12 @@
 # hwpc cleanup
 - Goals
   - Mark can run from phone
+    - [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs)
   - Automatic phone, chat and email response / attendent ( Candy-bot )
-  - Automatic response scheduling (aka will schedule and alert phone)
-  - Automatic invoice and payment creation
-  - Automatic reciept input via email, pdf or picture
-  - Continuious tax tracking
-  - Tax pre-planning
-  - Auto tax filing
+    - [https://gitea.cat9.me/nsadmin/nscallbot](https://gitea.cat9.me/nsadmin/nscallbot)
+  - Continuious tax ?? nstaxbot ??
+    - Tax pre-planning
+    - Auto tax filing
 - Time: 20hr / week to 1/25
 - Evaluation metrics
   - Mark uses it
