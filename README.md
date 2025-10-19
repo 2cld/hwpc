@@ -36,20 +36,8 @@
 - ct sites.google.com Routes HWPC
 - ct [noetbooklm - Routes](https://notebooklm.google.com/notebook/a8276b19-1b41-4887-850f-c7f4b2b9ae75?pli=1)
 
-# hwpc research 
-- n8n [quickbooks](https://youtu.be/mprQ4CY3yn0) and [tutorial site](https://www.reddit.com/r/n8n/comments/1ncceu3/automate_your_accounting_quickbooks_n8n_tutorial/)
-- n8n [pdf to gsheets](https://www.youtube.com/watch?v=LfuPWIJGh44)
-- n8n [reciepts to gsheets](https://www.youtube.com/watch?v=oacdH5mykvI)
-- n8n [Extract Info From Impossible Docs in n8n With Mistral](https://www.youtube.com/watch?v=HPQEJXp9zCE)
-- n8n probably the most open [extract from pdf / images](https://www.youtube.com/watch?v=Hk1aBqLbFzU)
-- n8n doc processing [Extract PDF Content and Update to Google Sheet](https://www.youtube.com/watch?v=rWBJFYEDqYs)
-- n8n competitor [sim ai](https://www.sim.ai/)
-- n8n with [aistudio](https://aistudio.google.com/) to reverse engineer n8n tutorial [n8n tutorial to code](https://www.youtube.com/watch?v=o7zHl9gHhVM)
-- n8n replace quickbooks [tbd](https://www.youtube.com/watch?v=Hk0pqhw1AQs)
-- [ai voice agent yt](https://www.youtube.com/watch?v=HGBMr1RQliY)
-- [ai voice agent yt](https://www.youtube.com/watch?v=JinTKY1TJZY)
-- [ai voice agent multi-lingual](https://www.youtube.com/watch?v=n64lzhgld8M)
-- [ai call center](https://www.youtube.com/watch?v=6MLu3fbNsdY)
+# hwpc n8n research
+- now at [https://gitea.cat9.me/nsadmin/nscallbot](https://gitea.cat9.me/nsadmin/nscallbot)
 
 ## hwpc from wip.2cld.net
 - Review HWPC
