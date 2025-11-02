@@ -1,19 +1,25 @@
 [edit](https://github.com/2cld/hwpc/edit/master/README.md) 
 
+- [github rustdesk](https://github.com/rustdesk/rustdesk/releases/tag/1.4.3) - [web remote](https://rustdesk.com/web/)
+
 # hwpc cleanup
 - Goals
   - Mark can run from phone
     - [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs)
   - Automatic phone, chat and email response / attendent ( Candy-bot )
     - [https://gitea.cat9.me/nsadmin/nscallbot](https://gitea.cat9.me/nsadmin/nscallbot)
+    - cat9bot - test main • ‪(605) 205-3234‬
   - Continuious tax ?? nstaxbot ??
+    - christrees - [Trust Template](https://drive.google.com/drive/folders/1ZkjBa23OeKdM0mG6DxISU7uZqUqZDMoX)
+    - quickbooks backup
     - Tax pre-planning
-    - Auto tax filing
+    - Auto tax reports
 - Time: 20hr / week to 1/25
 - Evaluation metrics
   - Mark uses it
   - Mark can manage dailies from his phone
   - Reduce taxes
+  - continious accounting
   - Increase google rating [google business](https://business.google.com/create?skipLandingPage&service=ome&original_intent=GMB&omesrcexp=97643701&omec=ELXZxy4YAiIBATIBAUABShMIzKPruOWukAMVTdZLAx3GtRi0)
 
 # hwpc test
