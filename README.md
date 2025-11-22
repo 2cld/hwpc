@@ -89,6 +89,7 @@
 - tbd
   
 # Reference
+- Accounting Finance - [yt](https://www.youtube.com/@Robuilt/videos)
 - [test ai search](https://www.google.com/search?udm=50&aep=46&source=25q2-US-SearchSites-Site-CTA&q=my+bluetooth+mouse+on+windows+10+keeps+failing.++If+I+go+to+bluetooth+connections+and+just+click+the+mouse+it+starts+working.++Any+clue+why+it+drops%3F&mstk=AUtExfCAKg-8oRbA9FPwqQrBqGCH2k-yviw2RELXNBH3V2jWc8mCf2bVf1JlWMOLlMKSLPO0FcYHasbZYBXwJ_Ed2ntgiwrGPvlUnI78ZkQkb_3gUSLDerpEn3vuRVVsh1rFEyOswAy_7hVrBwAUK9-bO7A6r5v0c4ganr0&csuir=1)
 - [Code with Curt - google webapp youtube](https://www.youtube.com/@CodeWithCurt/videos)
   - [Invoice Generator](https://www.youtube.com/watch?v=JPcMLmVQdkU)
