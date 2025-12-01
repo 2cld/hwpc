@@ -2,6 +2,19 @@
 
 - [github rustdesk](https://github.com/rustdesk/rustdesk/releases/tag/1.4.3) - [web remote](https://rustdesk.com/web/)
 
+# hwpc weekly Sunday 3-5pm CST
+- this document [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
+- HWPCmain 10.147.17.96 Account [zt](https://my.zerotier.com/network/d5e5fb65371eb4a4)
+- cat9fin 10.147.17.218 cat [zt](https://my.zerotier.com/network/d5e5fb65371eb4a4)
+- GoogleMeet [HWPC-meeting]()
+- Agenda
+  - HWPC LLC Operation Agreement
+  - HWPC LLC Buy Sell Agreement
+  - Confirm HWPC Property ? 2026 Depreiation ??
+  - Review Customer Invoices
+  - Review Banking
+  - Review Witholding
+
 # hwpc cleanup
 - Goals
   - Mark can run from phone
