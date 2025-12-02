@@ -15,6 +15,18 @@
   - Review Banking
   - Review Witholding
 
+## mvp
+- Fix Google Ads [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
+- rebuild win11vm (ran out of space in installs) (250GB next time??)
+- Install TurboTax 2023, 2024, 2025
+- Install quickbooks
+- 2025 Tax Planning - based off of LLC Template
+- callbot - Answer phone 
+- callbot - Take message
+- callbot - Message notification
+- callbot - Callback planning
+- Route Scheduling
+
 # hwpc cleanup
 - Goals
   - Mark can run from phone
