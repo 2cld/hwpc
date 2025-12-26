@@ -6,7 +6,7 @@
 - this document [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
 - HWPCmain 10.147.17.96 Account [zt](https://my.zerotier.com/network/d5e5fb65371eb4a4)
 - cat9fin 10.147.17.218 cat [zt](https://my.zerotier.com/network/d5e5fb65371eb4a4)
-- GoogleMeet [HWPC-meeting]()
+- GoogleMeet [HWPC-meeting](https://meet.google.com/zrf-racv-dgt)
 - Agenda
   - HWPC LLC Operation Agreement
   - HWPC LLC Buy Sell Agreement
