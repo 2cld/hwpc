@@ -2,6 +2,16 @@
 
 - [github rustdesk](https://github.com/rustdesk/rustdesk/releases/tag/1.4.3) - [web remote](https://rustdesk.com/web/)
 
+# ToDo
+- [ ] Backup HWPCMain Quickbooks (chris) store and share via candy@hawkeyewestpestcontrol.com
+- [ ] Update catwin11 backup Quickbooks (chris)
+- [ ] Review customer balances (chris mark)
+- [ ] Review "banks" (chris mark)
+- [ ] Review "categories" (chris mark)
+- [ ] Contact Google [instructions hwpc-google](./docs/hwpc-google/) (chris mark)
+- [X] Call Quickbooks (Mark) DONE - Desktop expires in March
+- [ ] tbd
+
 # hwpc weekly Sunday 3-5pm CST
 - this document [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
 - HWPCmain 10.147.17.96 Account [zt](https://my.zerotier.com/network/d5e5fb65371eb4a4)
