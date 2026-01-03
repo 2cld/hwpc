@@ -7,7 +7,7 @@ If this email belongs to you, switch accounts, or use Account Recovery help guid
 You can also continue to request access from the current manager of this business on Google.
 For more information about how we source and use information in local listings, see here
 
-- [google maps owner](https://business.google.com/create?skipLandingPage&service=ome&original_intent=GMB&omesrcexp=97643701&omec=ELXZxy4yAgECQAFKEwiYmLmfwu-RAxWUy0sDHVmLMNc%3D)
+- [google maps owner](https://business.google.com/create) then search for "Hawkeye West Pest Control" should get the above text.
 - [google get buisness on google](https://www.google.com/search?q=get+my+business+on+google+maps&sca_esv=97f87ef5af16174d&rlz=1C1CHFX_enUS1166US1166&sxsrf=AE3TifN0-lmBWcnGGNLM3CL-SPc6RJUOlQ%3A1760819332216&ei=hPjzaPD-DOTMp84P-amcyQ0&ved=0ahUKEwjw0L2Wy66QAxVk5skDHfkUJ9kQ4dUDCBE&uact=5&oq=get+my+business+on+google+maps&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmdldCBteSBidXNpbmVzcyBvbiBnb29nbGUgbWFwczIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5I3dkBUIB5WOzMAXAFeAGQAQCYAasBoAG1E6oBBDI4LjS4AQPIAQD4AQGYAiWgAs0VwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAgQQIxgnwgILEAAYgAQYkQIYigXCAgoQABiABBhDGIoFwgINEAAYgAQYsQMYQxiKBcICEBAuGIAEGNEDGEMYxwEYigXCAggQABiABBixA8ICDhAuGIAEGLEDGIMBGIoFwgIOEC4YgAQYxwEYjgUYrwHCAgsQLhiABBixAxiDAcICCxAuGIAEGMcBGK8BwgILEAAYgAQYsQMYgwHCAgsQLhiABBjRAxjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEAAYBRgNGB7CAggQABgIGA0YHsICCxAAGIAEGIYDGIoFwgIIEAAYFhgKGB6YAwCIBgGQBgiSBwQzMC43oAfJggKyBwQyNS43uAedFcIHBjItMzIuNcgH4QE&sclient=gws-wiz-serp)
 
 
