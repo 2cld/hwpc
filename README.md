@@ -15,6 +15,26 @@
 - [ &checkmark; ] Don't burn everything down and dance naked in the ashes
 [ &checkmark; ] tbd
 
+## from wip.2cld.net
+- [hwpc](https://hwpc.2cld.net) stuff [github repo](https://github.com/2cld/hwpc)
+  - hwpc Ops Agreement (in md)
+  - hwpc Buy Sell Agreement (in md)
+  - hwpc export attempt
+  - hwpc qb backup
+  - hwpc account
+  - qbooks cleanup
+  - qbooks online
+- candybot va nsadmin
+  - https://dashboard.vapi.ai/login
+  - https://platform.openai.com/settings/organization/usage
+  - https://platform.openai.com/docs/quickstart
+  - https://horseoffworkspace.slack.com/account/settings
+  - https://app.slack.com/client/T09QXQ57BPT/platform
+  - https://github.com/settings/security
+  - manual
+  - sync workflow
+  - simple build workflow
+
 # hwpc weekly Sunday 3-5pm CST
 - this document [https://hwpc.2cld.net/](https://hwpc.2cld.net/)
 - HWPCmain 10.147.17.96 Account [zt](https://my.zerotier.com/network/d5e5fb65371eb4a4)
