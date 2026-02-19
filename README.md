@@ -10,10 +10,10 @@
 - [ ] Review "categories" (chris mark)
 - [ ] Setup printing from catwin11 (chris)
 - [ ] Contact Google [instructions hwpc-google](./docs/hwpc-google/) (chris mark)
-- [ &checkmark; ] Call Quickbooks (Mark) DONE - Desktop expires in March
-- [ &checkmark; ] Backup HWPCMain Quickbooks (chris) move to catwin11 and restore DONE - login with hwpc to view
-- [ &checkmark; ] Don't burn everything down and dance naked in the ashes
-[ &checkmark; ] tbd
+- [X] Call Quickbooks (Mark) DONE - Desktop expires in March
+- [X] Backup HWPCMain Quickbooks (chris) move to catwin11 and restore DONE - login with hwpc to view
+- [X] Don't burn everything down and dance naked in the ashe
+- tbd
 
 ## from wip.2cld.net
 - [hwpc](https://hwpc.2cld.net) stuff [github repo](https://github.com/2cld/hwpc)
