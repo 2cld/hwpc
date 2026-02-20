@@ -3,13 +3,41 @@
 - [github rustdesk](https://github.com/rustdesk/rustdesk/releases/tag/1.4.3) - [web remote](https://rustdesk.com/web/)
 
 # ToDo
-- [ ] Backup HWPCMain Quickbooks (chris) EOY and share via candy@hawkeyewestpestcontrol.com
-- [ ] Update catwin11 EOY Quickbooks (chris)
+- [ ] Contact Google [instructions hwpc-google](./docs/hwpc-google/) (chris mark)
+- [ ] Chris verifies reports and database to move to full mobile
+- [ ] Mark prints Routes (computer and phone hopefully)
+- [ ] Work through Online access... make sure mark can access and cat9fin and HWPCMain computer can access
+- [ ] On HWPCMain Quickbooks push the OnLine import button..
+- [ ] Import 2026-preQBOnline-HWPCLLC verify account status
+- [ ] Backup HWPCMain Quickbooks (chris) post 2026-preQBOnline-HWPCLLC file (mark chris) and share via candy@hawkeyewestpestcontrol.com
+- [ ] Final HWPCMain QBooks file cleanup (chris mark)
+- [ ] Take reports and Tax shit to your Accountant (mark - should be easy for them, but they should review)
+- [ ] Finalize 2025 tax plan
+- [ ] Setup printing test from cat9fin (chris)
+- [ ] Review possible distribution changes
+- [ ] 2025 RC 1040 Tax
+- [ ] 2025 Mark 1040 Tax
+- [ ] 2025 HWPC 1065 Tax Report print
+- [ ] -->GOTO-REPEATStart: until TurboTax 2025 HWPC 1065 is ready to File
+- [ ] -->REPEAT: Make QBooks corrections with Mark on HWPCMain (chris mark)
+- [ ] -->REPEAT: 2025 HWPC, Tax to Actual Filed PDF HWPC, LLC 2025 1065 (chris)
+- [ ] -->REPEATStart: Backup HWPCMain Quickbooks (chris) post Mark/Chris Cleanup and share via candy@hawkeyewestpestcontrol.com
+- [ ] 2025 TurboTax Business import for HWPC
+- [ ] -->GOTO-REPEATStart: until TurboTax 2024 HWPC matches actual PDF 2024 TurboTax file
+- [ ] -->REPEAT: Make QBooks corrections with Mark on HWPCMain (chris mark)
+- [ ] -->REPEAT: Match 2024 HWPC, Tax to Actual Filed PDF HWPC, LLC 2024 1065 (chris)
+- [ ] -->REPEATStart: Backup HWPCMain Quickbooks (chris) post Mark/Chris Cleanup and share via candy@hawkeyewestpestcontrol.com
 - [ ] Review customer balances (chris mark)
 - [ ] Review "banks" (chris mark)
 - [ ] Review "categories" (chris mark)
-- [ ] Setup printing from catwin11 (chris)
-- [ ] Contact Google [instructions hwpc-google](./docs/hwpc-google/) (chris mark)
+- [ ] PDF of HWPC, LLC 2024 1065 (mark)
+- [ ] TurboTax 2024 import from QBooks 2024 test (chris)
+- [ ] TurboTax 2025 personal on cat9fin EOY Quickbooks (chris)
+- [ ] TurboTax 2024 personal on cat9fin EOY Quickbooks (chris)
+- [ ] TurboTax 2025 business on cat9fin EOY Quickbooks (chris)
+- [ ] TurboTax 2024 business on cat9fin EOY Quickbooks (chris)
+- [X] QBooks 2024  on cat9fin an HWPC import Quickbooks (chris)
+- [X] Cleanup pass one (Mark) DONE - 20250219 
 - [X] Call Quickbooks (Mark) DONE - Desktop expires in March
 - [X] Backup HWPCMain Quickbooks (chris) move to catwin11 and restore DONE - login with hwpc to view
 - [X] Don't burn everything down and dance naked in the ashe
