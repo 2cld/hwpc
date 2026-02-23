@@ -14,6 +14,9 @@
 - [ ] Take reports and Tax shit to your Accountant (mark - should be easy for them, but they should review)
 - [ ] Finalize 2025 tax plan
 - [ ] Setup printing test from cat9fin (chris)
+- [ ] Final cleanup customer balances (chris mark)
+- [ ] Final cleanup "banks" (chris mark)
+- [ ] Final cleanup "categories" (chris mark)
 - [ ] Review possible distribution changes
 - [ ] 2025 RC 1040 Tax
 - [ ] 2025 Mark 1040 Tax
@@ -27,15 +30,15 @@
 - [ ] -->REPEAT: Make QBooks corrections with Mark on HWPCMain (chris mark)
 - [ ] -->REPEAT: Match 2024 HWPC, Tax to Actual Filed PDF HWPC, LLC 2024 1065 (chris)
 - [ ] -->REPEATStart: Backup HWPCMain Quickbooks (chris) post Mark/Chris Cleanup and share via candy@hawkeyewestpestcontrol.com
-- [ ] Review customer balances (chris mark)
-- [ ] Review "banks" (chris mark)
-- [ ] Review "categories" (chris mark)
-- [ ] PDF of HWPC, LLC 2024 1065 (mark)
-- [ ] TurboTax 2024 import from QBooks 2024 test (chris)
-- [ ] TurboTax 2025 personal on cat9fin EOY Quickbooks (chris)
-- [ ] TurboTax 2024 personal on cat9fin EOY Quickbooks (chris)
-- [ ] TurboTax 2025 business on cat9fin EOY Quickbooks (chris)
-- [ ] TurboTax 2024 business on cat9fin EOY Quickbooks (chris)
+- [X] Review customer balances (chris mark)
+- [X] Review "banks" (chris mark)
+- [X] Review "categories" (chris mark)
+- [X] PDF of HWPC, LLC 2024 1065 (mark)
+- [X] TurboTax 2024 import from QBooks 2024 test (chris)
+- [X] TurboTax 2025 personal on cat9fin EOY Quickbooks (chris)
+- [X] TurboTax 2024 personal on cat9fin EOY Quickbooks (chris)
+- [X] TurboTax 2025 business on cat9fin EOY Quickbooks (chris)
+- [X] TurboTax 2024 business on cat9fin EOY Quickbooks (chris)
 - [X] QBooks 2024  on cat9fin an HWPC import Quickbooks (chris)
 - [X] Cleanup pass one (Mark) DONE - 20250219 
 - [X] Call Quickbooks (Mark) DONE - Desktop expires in March
