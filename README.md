@@ -2,6 +2,28 @@
 
 - [github rustdesk](https://github.com/rustdesk/rustdesk/releases/tag/1.4.3) - [web remote](https://rustdesk.com/web/)
 
+# Chris's conclusion
+- Keep using old QB2024 for this week
+- Chris figures out the batch Invoice Route Print shit
+- Mark keeps running tickets this week the old way
+- Quickbooks suggests to just delete and re-import
+- Mark and Chris runs Tax Reports on QB2024 (TODAY)
+- We do more cleanup...
+  - Chris understands how Mark is doing Invoice Route Print
+  - Chris and Mark get Tax Reports ran for Accountant
+  - Chris backs it up and moves to new machine
+  - We do new Import to QBOL from new machine
+  - Repeat until Mark actually runs Tickets from the new Machine
+ 
+# Update on QB2024 to QBOL
+- The format for the Invoices (printing) did not import
+- QBOL has Service Ticket Batch stuff, but they want to charge mo-money... f-that
+- I did look into reformating the invoice print.  It is possible...
+- I started looking at the export and import of the "all ready" printed tickets
+- I did get to the screen to import tickets via cvs
+- When looking deeper into invoice generation, most people use another QBOL plugin
+- WELL...FUCK, I can write a plugin...
+
 # ToDo
 - [ ] Contact Google [instructions hwpc-google](./docs/hwpc-google/) (chris mark)
 - [ ] Chris verifies reports and database to move to full mobile
