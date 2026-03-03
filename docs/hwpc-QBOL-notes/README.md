@@ -1,5 +1,7 @@
 # QBOL research
 
+<details>
+<summary>Memorized Batch Invoices</summary>
 Question:
 ```
 I have a batch of Invoices to generate and Print for a Route tomorrow, what is the best way to do that in QuickBooks Online?  I had been using Memorized Transaction Groups to do this in QuickBooks 2024 Desktop.
@@ -30,27 +32,32 @@ This workflow lets you quickly generate and print all invoices for your route in
 
 ```
 
+</details>
+
 ---
 ---
+
 QBOL QuestionAnswer Template
 ---
 
-BEGIN-TEMPLATE
-
+<details>
+<summary>ShortName</summary>
 Question:
-
 ```
 question here
 
 ```
 Answer: 
 - [Link to PDF](tbd)
-
+- Location "C:\\"
 ```
 AnswerText
 
 ```
 
-END-TEMPLATE
+</details>
+
+---
+---
 
 ---
