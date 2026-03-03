@@ -1,6 +1,29 @@
 # QBOL research
 
 <details>
+<summary>Export Invoices</summary>
+- Question:
+
+  ```
+Can I export a cvs in Quickbooks 2024 of File -> Print Forms -> Invoices (Accounts Receivable)
+
+```
+
+- Answer: 
+
+```
+QuickBooks Online does not have a direct option to export invoices from Print Forms to a CSV file. Instead, you can import multiple invoices via CSV, but export requires a different approach.
+
+To export invoices as CSV, you can go to All apps → Sales → Invoices, then use the Export to Excel or Export to CSV option if available. This will export invoice data, not from Print Forms, but from your invoice list.
+
+For detailed invoice exports, consider using the Reports feature to generate a sales or invoice report, then export that report as a CSV file from the report view.
+
+QuickBooks Online Advanced and Payroll Core do not change this process for 2024.
+```
+
+</details>
+
+<details>
 <summary>Create Reoccurring Invoices</summary>
 Question:
 
