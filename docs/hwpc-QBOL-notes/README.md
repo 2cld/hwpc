@@ -6,7 +6,7 @@ I have a batch of Invoices to generate and Print for a Route tomorrow, what is t
 ```
 
 Answer: 
-- [Link to PDF on cat9fin](file:///C:/cat9finshare/Account/RCFjetlandTrust/hwpc/2026QBOL-Testing/cat-Show-unpaid-invoices-customers_intuit-intelligence-message-1772558367928.pdf)
+- Link to [PDF on cat9fin](file:///C:/cat9finshare/Account/RCFjetlandTrust/hwpc/2026QBOL-Testing/cat-Show-unpaid-invoices-customers_intuit-intelligence-message-1772558367928.pdf)
 - file:///C:/cat9finshare/Account/RCFjetlandTrust/hwpc/2026QBOL-Testing/cat-Show-unpaid-invoices-customers_intuit-intelligence-message-1772558367928.pdf
 
 ```
