@@ -1,10 +1,61 @@
 # QBOL research
 
+
+<details>
+<summary>Create Custom invoice</summary>
+Question:
+
+```
+question here
+```
+- Quickbooks [candy NotebookLM](https://notebooklm.google.com/notebook/bc96db25-7c54-438a-bf1c-c7fb562adfdd)
+
+YouTube: 
+- Quickbooks [How to create and customize an invoice in QuickBooks Online](https://youtu.be/N7q2MlMG6xw?list=TLGGbvYONcoArD8wMzAzMjAyNg)
+- Kevin Stratvert [How to Create and Customize an Invoice in QuickBooks Online For Beginners](https://www.youtube.com/watch?v=UsDIzItgtx0)
+
+```
+Step-by-Step Guide to Creating a Custom Invoice
+
+1. Initiate the Invoice
+Action: From your dashboard, click the + New button in the top left corner and select Invoice,,.
+Video Reference: Kevin Stratvert (43) at 0:00.
+
+2. Fill in the Basic Information
+Customer: Select an existing customer or click Add New to enter their name and email,.
+Terms: Set the payment terms (e.g., Net 30, which means payment is due 30 days after the invoice date),.
+Products and Services: Click into the line items to add your products or services. QuickBooks will automatically fill in saved descriptions and rates, though you can modify these for a specific invoice,,.
+Video Reference: Kevin Stratvert (44-47) from 0:44 to 2:00.
+
+3. Customize for a "Printer-Friendly" Format To ensure the invoice looks good when printed, you should customize the design:
+Access Customization: Click the Manage button (usually in the top right) and select Customization or Design,,.
+Color Choice: For a printer-friendly format, stick with black for the color scheme to avoid wasting colored ink; QuickBooks will remove decorative gray bars when you actually print.
+Hiding Fields: You can use the toggles to hide or show specific fields like the shipping address, invoice number, or logo,,.
+Advanced Formatting: If you need deeper control over margins, fonts, or column widths, go to the Gear Icon > Custom Form Styles. From there, you can create a "New Style" and choose "Original" for less "fluff",.
+Video Reference: Kevin Stratvert (50-53) starting at 3:00; Tutorials With Tobias (74) at 1:20.
+
+4. Adjust Line Item Layout
+You can edit column headers (e.g., renaming "Description" to something else) or drag handles to move columns around.
+Collapse Activity: For cleaner printing, you can choose to "Collapse Activity," which groups items by date or type so the printed page isn't unnecessarily long.
+Video Reference: Kevin Stratvert (55-56) starting at 4:45.
+
+5. Preview and Print
+Preview: Before printing, click Print or Download at the bottom of the screen to see exactly what the PDF version will look like,.
+Print: Once satisfied with the preview, click Print from the PDF viewer.
+Video Reference: Kevin Stratvert (59) at 6:40.
+
+Quick Tips for Customization
+Logo Management: Be careful when removing a logo; clicking the "X" on the logo inside the invoice editor may remove it from your entire account, not just that one invoice.
+Message to Customer: You can add a personalized "Thank You" note or specific payment instructions in the footer text boxes
+```
+
+</details>
+
 <details>
 <summary>Export Invoices</summary>
 - Question:
 
-  ```
+```
 Can I export a cvs in Quickbooks 2024 of File -> Print Forms -> Invoices (Accounts Receivable)
 
 ```
@@ -95,17 +146,19 @@ QBOL QuestionAnswer Template
 <details>
 <summary>ShortName</summary>
 Question:
-```
-question here
 
 ```
+question here
+```
+
 Answer: 
 - [Link to PDF](tbd)
 - Location "C:\\"
-```
-AnswerText
 
 ```
+AnswerText
+```
+
 </details>
 
 -->
