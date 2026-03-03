@@ -2,7 +2,64 @@
 
 - [github rustdesk](https://github.com/rustdesk/rustdesk/releases/tag/1.4.3) - [web remote](https://rustdesk.com/web/)
 
-# Chris's conclusion
+
+# QBOL - Print Ticket
+- Memorized Transaction -> R1 Group
+- Pick Date of Route -> This generates new invoices but NOT Printed
+- File -> Print Forms -> Invoices (Accounts Receivable)
+- The Print Forms "Invoices (Account Receivable)" brings up a list of Invoices ready to print.  The "Printing" of the Invoice initiates the "Delivery" which puts the Transaction into the Customer's Statement Line Item.
+- List -> Template contains all the Route Ticket Invoice Templates
+- Click on a Tempate and you can Edit the Template
+  - Layout: move layout
+  - Customization: Data Fields
+- Go to MemTransactions, Click on ONE invoice, brings up new Invoice Form
+  - Click Memorize to copy to new Memorized, Click attach to Group
+
+# 2025 Tax Reports
+- HWPCmain (old computer)
+  - QB Backup ?? Documents/HWPC-toQBOL/*.QBB
+  - Current used on cat9fin hwpc_main july 2020 (Backup Mar 01,2026  04 45 PM)
+- cat9fin (new computer)
+  - path "C:\cat9finshare\Account\RCFjetlandTrust\hwpc\BackupHWPC\hwpc_main july 2020 (Backup Mar 01,2026  04 45 PM).QBB"
+  - QuickBooks Pro Plus 2024 Desktop Icon:
+    - Target: "C:\Program Files\Intuit\QuickBooks 2024\QBWPro.exe"
+    - StartIn: "C:\Program Files\Intuit\QuickBooks 2024\"
+    - 
+# QuickBooks 2024 Backup
+## Quickbooks
+- Go to HWPCmain
+- Start Quickbooks
+- Close all windows
+- File -> Company -> Create local backup
+- Browse to: ?? Documents/HWPC-toQBOL/
+- Run Backup
+## Google Drive
+- Login to candy google
+- go to drive.google.com
+- My Drive -> HWPC-Export -> HWPC-toQBOnline -> BackupToGoQBOL
+- New File Upload: Documents/HWPC-toQBOL/hwpc_main july 2020 (Backup Mar 01,2026  04 45 PM).QBB
+- That transfers the <backkup-file>.QBB to candy google drive
+
+# QuickBooks 2024 Restore
+## Google Drive
+- Go to cat9fin
+- Login to candy google
+- go to drive.google.com
+- My Drive -> HWPC-Export -> HWPC-toQBOnline -> BackupToGoQBOL
+- click the "..." to the right of hwpc_main july 2020 (Backup Mar 01,2026  04 45 PM).QBB
+- Select Download
+- That transfers the <backkup-file>.QBB to Downloads on cat9fin
+## Quickbooks
+- Start Quickbooks
+- Close all windows
+- Open or Restore a Company -> restore a backup
+- Browse to: "C:\cat9finshare\Account\RCFjetlandTrust\hwpc\BackupHWPC\hwpc_main july 2020 (Backup Mar 01,2026  04 45 PM).QBB"
+- Name target "C:\Users\Public\Documents\Intuit\QuickBooks\Company Files\hwpc_main_march2026.qbw"
+
+---
+---
+
+# Chris's conclusion Sun March 1
 - Keep using old QB2024 for this week
 - Chris figures out the batch Invoice Route Print shit
 - Mark keeps running tickets this week the old way
