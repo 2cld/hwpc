@@ -2,7 +2,8 @@
 
 - [github rustdesk](https://github.com/rustdesk/rustdesk/releases/tag/1.4.3) - [web remote](https://rustdesk.com/web/)
 
-
+- [QBOL Notes](./docs/hwpc-QBOL-notes/)
+  
 # QBOL - Print Ticket
 - Memorized Transaction -> R1 Group
 - Pick Date of Route -> This generates new invoices but NOT Printed
