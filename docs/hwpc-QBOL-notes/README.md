@@ -1,5 +1,47 @@
-# QBOL research
+# QBOL Research & Migration Notes
 
+## Migration Status
+
+✅ **RESOLVED (2026-04-01):** HWPC migration to QBOL complete. QB2020 used as migration path. Paycheck issued.
+
+### Migration Timeline
+- 2026-03-27: QBOL invoice forms work at River Place. Mark ran routes (good till 4/7). QBOL final migration FAILED (8hr timeout).
+- 2026-03-28: Traveled to Winfield. QB2020 brought up. Customers imported.
+- 2026-03-29: ReportPrint/gReportPrint started.
+- 2026-03-31: HWPC migration to QBOL complete. Paycheck issued.
+- 2026-04-01: RoutePrint research + notes captured.
+
+### Next Up
+- RoutePrint invoice import to QBOL
+- See [RoutePrint Epic tasks](../hwpc-review/) in the review queue
+
+### Key Findings During Migration
+- Invoice print formats did NOT import cleanly from QB2024 to QBOL
+- QB2020 was the successful migration path (not direct from QB2024)
+- QBOL batch invoice/service ticket features require additional subscription
+- Most people use a QBOL plugin for invoice generation — potential to write a custom one
+- developer.intuit.com has API access for custom QBOL tooling
+
+### Related Repos
+- [ns-account](https://gitea.cat9.me/nsadmin/ns-account) — primary dev repo (private Gitea)
+  - `hwpc-rpdev/` — RoutePrint dev environment with QB2024 exports, QBOL imports, test data
+  - `_tools/qb_migration/` — Python migration toolkit (CLI, web UI, route tickets, tax integration)
+  - `_tools/qb_gsheets/` — Google Sheets RoutePrint integration scripts
+  - `RCFjetlandTrust/hwpc/RoutePrintFeature/` — reference PDFs for all 17 routes from QB2024
+  - `RCFjetlandTrust/hwpc/QBooks-Downgrade/` — QB2020 downgrade path (successful migration workaround)
+- [nsqbooks](https://gitea.cat9.me/nsadmin/nsqbooks) — QB tooling on gitea
+
+### Kiro Specs (in ns-account/.kiro/specs/)
+Active spec-driven development for HWPC features:
+- `route-ticket-printing/` — RoutePrint feature spec
+- `ticket-lifecycle-workflow/` — ticket lifecycle spec
+- `batch-flow-diagram/` — batch invoice flow spec
+- `monthly-draft-generation/` — monthly draft generation spec
+- `quickbooks-migration-tooling/` — QB migration spec
+
+---
+
+## QBOL How-To Notes
 
 <details>
 <summary>Create Custom invoice</summary>
@@ -84,7 +126,7 @@ Create Reoccurring Invoice
 
 Answer: 
 - [Link to PDF](tbd)
-- Location ""C:\cat9finshare\Account\RCFjetlandTrust\hwpc\2026QBOL-Testing\cat-CreateReoccuringInvocie-intuit-intelligence-message-1772558645534.pdf""
+- Location: see `RCFjetlandTrust/hwpc/2026QBOL-Testing/` in ns-account repo
 
 ```
 To create recurring invoices in QuickBooks Online Advanced, follow these steps:
@@ -110,8 +152,7 @@ I have a batch of Invoices to generate and Print for a Route tomorrow, what is t
 ```
 
 Answer: 
-- Link to [PDF on cat9fin](file:///C:/cat9finshare/Account/RCFjetlandTrust/hwpc/2026QBOL-Testing/cat-Show-unpaid-invoices-customers_intuit-intelligence-message-1772558367928.pdf)
-- file:///C:/cat9finshare/Account/RCFjetlandTrust/hwpc/2026QBOL-Testing/cat-Show-unpaid-invoices-customers_intuit-intelligence-message-1772558367928.pdf
+- PDF in ns-account repo: `RCFjetlandTrust/hwpc/2026QBOL-Testing/`
 
 ```
 QuickBooks Online doesn’t have memorized transaction groups like QuickBooks Desktop. Instead, you can use recurring templates and batch actions to streamline your process:
@@ -153,7 +194,7 @@ question here
 
 Answer: 
 - [Link to PDF](tbd)
-- Location "C:\\"
+- Location: (path in ns-account repo)
 
 ```
 AnswerText

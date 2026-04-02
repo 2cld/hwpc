@@ -1,26 +1,28 @@
-[edit]()
+[edit](https://github.com/2cld/hwpc/edit/master/docs/hwpc-gs/README.md)
+
 # hwpc-gs project
-update old delphi program to run mobile
 
-- ghadmin [https://github.com/grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs)
+Update old Delphi program to run mobile.
 
-## Demo links
-- need [ghadmin zerotier approval](https://my.zerotier.com/network/d5e5fb65371eb4a4)
-- [http://10.147.17.219:8000/tickets/?demo=true](http://10.147.17.219:8000/tickets/?demo=true)
-- [http://10.147.17.219:8000/customers/?demo=true](http://10.147.17.219:8000/customers/?demo=true)
+- Source: [grasshorse/hwpc-gs](https://github.com/grasshorse/hwpc-gs) (private — request access from ghadmin)
 
----
-- [http://10.147.17.219:8000/tickets/?demo=true](http://10.147.17.219:8000/tickets/?demo=true)
+## Demo Access
+
+Demo requires ZeroTier network access — contact ghadmin for approval.
+
+Once connected, the demo server runs on the internal network (see team channel for IP and port).
+
+## Screenshots
+
+### Tickets
 ![tickets-demo](./HWPC-Tickets-DEMO.PNG)
-![tickets-demo](./HWPC-Tickets-Edit-DEMO.PNG)
----
-- [http://10.147.17.219:8000/customers/?demo=true](http://10.147.17.219:8000/customers/?demo=true)
-![tickets-demo](./HWPC-Customers-DEMO.PNG)
-![tickets-demo](./HWPC-Customers-Edit-DEMO.PNG)
----
-- [http://10.147.17.219:8000/routes/?demo=true](http://10.147.17.219:8000/routes/?demo=true)
-![tickets-demo](./HWPC-Routes-DEMO.PNG)
-![tickets-demo](./HWPC-Routes-Print-DEMO.PNG)
-![tickets-demo](./HWPC-Routes-AssignmentDnD-DEMO.PNG)
+![tickets-edit-demo](./HWPC-Tickets-Edit-DEMO.PNG)
 
+### Customers
+![customers-demo](./HWPC-Customers-DEMO.PNG)
+![customers-edit-demo](./HWPC-Customers-Edit-DEMO.PNG)
 
+### Routes
+![routes-demo](./HWPC-Routes-DEMO.PNG)
+![routes-print-demo](./HWPC-Routes-Print-DEMO.PNG)
+![routes-dnd-demo](./HWPC-Routes-AssignmentDnD-DEMO.PNG)
