@@ -1,0 +1,6 @@
+# Device instance data — contains sensitive info (phone numbers, IPs, accounts)
+# Template is in hwpc-mobile-device.md (tracked)
+# Instance files go in devices/ (ignored)
+devices/*.md
+devices/*.env
+!devices/.gitkeep

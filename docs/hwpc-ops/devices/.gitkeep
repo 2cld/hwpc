@@ -1,0 +1,3 @@
+# This directory holds device instance data (gitignored)
+# Each device gets its own .md file with actual values
+# Template: ../hwpc-mobile-device.md
